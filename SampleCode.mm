@@ -54,7 +54,6 @@
 {
     NSLog(@"Name: %@", personName);
     NSLog(@"Age: %ld", personAge);
-    NSLog(@"RealAge: %ld", personRealAge);
     NSLog(@"Education: %@", employeeEducation);
 }
 
